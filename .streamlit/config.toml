@@ -1,0 +1,25 @@
+# Claro e escuro ficam disponíveis no menu ⋮ > Settings; o padrão segue o sistema.
+[theme]
+font = "sans serif"
+showWidgetBorder = true
+baseRadius = "small"
+
+[theme.light]
+primaryColor = "#2a78d6"
+backgroundColor = "#f9f9f7"
+secondaryBackgroundColor = "#f0efec"
+textColor = "#0b0b0b"
+borderColor = "#e1e0d9"
+
+[theme.dark]
+primaryColor = "#3987e5"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#1a1c24"
+textColor = "#f5f5f3"
+borderColor = "#2c2f38"
+
+[client]
+toolbarMode = "viewer"
+
+[browser]
+gatherUsageStats = false
